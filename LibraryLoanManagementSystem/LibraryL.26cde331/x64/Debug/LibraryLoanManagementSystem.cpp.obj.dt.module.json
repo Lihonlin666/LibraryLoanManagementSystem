@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "LibraryL.26cde331\\x64\\Debug\\LibraryLoanManagementSystem.obj",
+            "outputs": [
+                "LibraryL.26cde331\\x64\\Debug\\LibraryLoanManagementSystem.cpp.obj.dt.module.json",
+                "LibraryL.26cde331\\x64\\Debug\\LibraryLoanManagementSystem.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
