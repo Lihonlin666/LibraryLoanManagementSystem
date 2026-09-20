@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="LibraryLoanManagementSystem.vcxproj" Id="26cde331-d7e2-43e3-a564-ed02e52f4073" />
-</Solution>
