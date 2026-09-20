@@ -1,0 +1,8 @@
+# Visual Studio 编译产物
+x64/
+Debug/
+*.pdb
+*.exe
+*.ilk
+*.obj
+*.vcxproj.user
